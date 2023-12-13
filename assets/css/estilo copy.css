@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align: center; */
+}
+
+.form-contato {
+    display: flex;
+    flex-flow: column;
+}
+
+input {
+    height: 32px;
+    margin: 16px 0;
+}
